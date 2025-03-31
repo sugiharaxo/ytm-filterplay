@@ -1,3 +1,5 @@
+THIS IS A CHROME EXTENSION FOR YOUTUBE MUSIC !!!
+
 FEATURES:
 - Filter a playlist's songs by search (supports search for artist, album, title)
 - Create queues that are made from those filtered songs
