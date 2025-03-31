@@ -9,6 +9,8 @@ HOW TO USE:
 - the filter button should be beside the sort sort button in your playlist view
 - once a filter is set click play on one of the filtered songs (not the big one to the left that one is not sigma, the one thats on the songs)
 
+https://github.com/user-attachments/assets/6a82ac26-c47e-4cc6-90ae-e1043b80b157
+
 HOW DOES IT WORK?
 black fuckin magic bruh dont ask (we hijack api endpoint responses)
 
